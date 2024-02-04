@@ -5,8 +5,6 @@
 
 <!-- ![Earth](https://i.gifer.com/Ccx.gif) -->
 
-<iframe src="https://gifer.com/embed/Ccx" width=480 height=360.694 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
 - 📫 How to reach me **rjm288@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
