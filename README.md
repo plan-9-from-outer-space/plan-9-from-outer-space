@@ -3,7 +3,9 @@
 
 <img align="right" alt="Earth" width="400" src="https://i.gifer.com/Ccx.gif">
 
-![Earth](https://i.gifer.com/Ccx.gif)
+<!-- ![Earth](https://i.gifer.com/Ccx.gif) -->
+
+<iframe src="https://gifer.com/embed/Ccx" width=480 height=360.694 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 📫 How to reach me **rjm288@gmail.com**
 
