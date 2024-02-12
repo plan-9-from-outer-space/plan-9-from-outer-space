@@ -6,13 +6,10 @@
 
 <h1 align="center">Robert Merchant</h1>
 <h2 align="center">
-AI Application Developer 🤖, Machine Learning Specialist 🛸, Data Scientist 🎨, Town Square Designer 🚀, Futures & Options Trader 🚀, and more!
+AI Application Developer 🤖, Machine Learning Specialist 🛸, Data Scientist 🎨, Town Square Designer 🚀, Futures & Options Trader 😈, and more!
 </h2> 
 
-- 🚀
-- 🛸
-- 👋
-- 🤖
+- 🚀 🛸 👋 🤖 😈
 
 ## Projects
 - [Ice Age Truth](): A deep investigation of Earth's Ice Age cycles.
