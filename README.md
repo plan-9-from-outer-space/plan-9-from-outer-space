@@ -87,6 +87,7 @@ AI Application Developer 🤖, Machine Learning Specialist 🛸, Data Scientist 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 
 - 🧑‍💻 Developer Forums
 
